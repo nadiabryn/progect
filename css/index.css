@@ -1,0 +1,67 @@
+body {
+    max-width: 980px;
+    margin: auto;
+    font-family: sans-serif;
+    font-size: 1em;
+    line-height: 1.6em;
+}
+
+header {
+	padding: 20px 0;
+}
+
+.main-menu {
+    position: fixed;
+    max-width: 980px;
+    margin: 0 auto;
+}
+
+.main-menu #navbarNavAltMarkup {
+    text-align: right;
+}
+
+.float-right {
+    float: right;
+    margin: 5px;
+    overflow: auto;
+    zoom: 1;
+}
+
+.float-left {
+    float: left;
+    margin: 5px;
+    overflow: auto;
+    zoom: 1;
+}
+
+.offers-container {
+    margin: 10px;
+}
+
+#offers .title-of-offers-container {
+    text-align: center;
+    font-weight: bold;
+}
+
+.offers-container p {
+    text-align: justify;
+}
+
+.lead {
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+/* form */
+#exampleFormControlInput1,
+#exampleFormControlInput2 {
+    width: 50%;
+}
+
+footer {
+    display: inline-block;
+}
+
+
